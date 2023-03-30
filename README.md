@@ -5,7 +5,7 @@ SymPy demo for Python MeetUP
 ## Getting Started
 
 You can run this online, by clicking on the below link, nothing to install or follow, try it here:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/techsolx/sympy_setyp_demo.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/techsolx/sympy_setyp_demo.git/main)
 cd into the new repo and pull the files in individually like this:
 
 Or clone the repo and install the requirements 
