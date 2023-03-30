@@ -5,7 +5,7 @@ SymPy demo for Python MeetUP
 ## Getting Started
 
 You can run this online, by clicking on the below link, nothing to install or follow, try it here:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/<repo.git>/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/techsolx/sympy_setyp_demo.git/HEAD)
 cd into the new repo and pull the files in individually like this:
 
 Or clone the repo and install the requirements 
@@ -29,7 +29,8 @@ The more I look the more I am a fan of semver...
 [TechSolX](https://github.com/techsolx)
 
 See also the list of
-[contributors](<project>/<repo>/graphs/master)
+[contributors](techsolx/sympy_setup_demo/graphs/master)
+techsolx/sympy_setup_demo
 who participated in this project.
 
 ## License
