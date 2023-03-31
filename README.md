@@ -16,7 +16,7 @@ Or clone the repo and install the requirements
 
 ### Description
 
-This is a Jupyter Notebook demo of how to run SymPi
+This is a Jupyter Notebook demo of how to run SymPy, and some stuff about pi
 
 ## Versioning
 
@@ -28,7 +28,7 @@ The more I look the more I am a fan of semver...
 [TechSolX](https://github.com/techsolx)
 
 See also the list of
-[contributors](techsolx/sympy_setup_demo/graphs/master)
+[contributors](techsolx/sympy_setup_demo/graphs/contributors)
 techsolx/sympy_setup_demo
 who participated in this project.
 
