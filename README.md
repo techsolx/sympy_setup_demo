@@ -28,8 +28,8 @@ The more I look the more I am a fan of semver...
 [TechSolX](https://github.com/techsolx)
 
 See also the list of
-[contributors](techsolx/sympy_setup_demo/graphs/contributors)
-techsolx/sympy_setup_demo
+[contributors](https://github.com/techsolx/sympy_setup_demo/graphs/contributors)
+
 who participated in this project.
 
 ## License
